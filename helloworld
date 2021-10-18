@@ -1,6 +1,2 @@
-a = 'hello world'
-print(a)
-b='hello'
-c='world'
-d=c+d
-print(d)
+Hello = 'hello world'
+print(Hello)
